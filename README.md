@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shiva Kant Mishra</h1>
 <h3 align="center">A passionate Software developer from Noida,India</h3>
+<div align="right">
+  <img height="200" src="https://shivakant-portfolio.netlify.app/static/media/HeroImage.89b491fbf89563a46fcf.jpg"  />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivakant1105&label=Profile%20views&color=0e75b6&style=flat" alt="shivakant1105" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivakant1105" alt="shivakant1105" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shivakant1105" target="blank"><img src="https://img.shields.io/twitter/follow/shivakant1105?logo=twitter&style=for-the-badge" alt="shivakant1105" /></a> </p>
-<div align="center">
-  <img height="200" src="https://shivakant-portfolio.netlify.app/static/media/HeroImage.89b491fbf89563a46fcf.jpg"  />
-</div>
 
 ###
 - 🔭 I’m currently working as **Frontend Developer**
