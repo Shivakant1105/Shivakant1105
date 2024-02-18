@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shiva Kant Mishra</h1>
 <h3 align="center">A passionate Software developer from Noida,India</h3>
-<div align="right">
-  <img height="200" src="https://shivakant-portfolio.netlify.app/static/media/HeroImage.89b491fbf89563a46fcf.jpg"  />
-</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivakant1105&label=Profile%20views&color=0e75b6&style=flat" alt="shivakant1105" /> </p>
 
