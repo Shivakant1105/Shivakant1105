@@ -6,7 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivakant1105" alt="shivakant1105" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shivakant1105" target="blank"><img src="https://img.shields.io/twitter/follow/shivakant1105?logo=twitter&style=for-the-badge" alt="shivakant1105" /></a> </p>
+<div align="center">
+  <img height="200" src="https://shivakant-portfolio.netlify.app/static/media/HeroImage.89b491fbf89563a46fcf.jpg"  />
+</div>
 
+###
 - 🔭 I’m currently working as **Frontend Developer**
 
 - 🌱 I’m currently learning **React Js, Next Js & Angular**
