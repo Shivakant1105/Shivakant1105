@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shiva Kant Mishra</h1>
-<h3 align="center">A passionate frontend developer from Noida,India</h3>
+<h3 align="center">A passionate Software developer from Noida,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivakant1105&label=Profile%20views&color=0e75b6&style=flat" alt="shivakant1105" /> </p>
 
