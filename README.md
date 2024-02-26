@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React Js, Next Js & Angular**
 
-- 👨‍💻 All of my projects are available at [https://shivakant-portfolio.netlify.app/](https://shivakant-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My-Portfolio](https://shivakant-portfolio.netlify.app/)
 
 - 💬 Ask me about **React Js, Next Js & Angular**
 
