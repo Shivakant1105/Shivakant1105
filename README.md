@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **Kantshiva1105@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AxypGLSgkONHYZ2VX2HgBksIAWL5luMK/view?pli=1](https://drive.google.com/file/d/1AxypGLSgkONHYZ2VX2HgBksIAWL5luMK/view?pli=1)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AxypGLSgkONHYZ2VX2HgBksIAWL5luMK/view?pli=1)
 
 - ⚡ Fun fact **I am funny**
 
