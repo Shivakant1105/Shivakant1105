@@ -12,7 +12,7 @@
 ###
 - 🔭 I’m currently working as **Frontend Developer**
 
-- 🌱 I’m currently learning **React Js, Next Js & Angular**
+- 🌱 I’m currently learning **Angular, Next Js & React Js**
 
 - 👨‍💻 All of my projects are available at [My-Portfolio](https://shivakant-portfolio.netlify.app/)
 
