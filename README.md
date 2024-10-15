@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **React Js, Next Js & Angular**
 
-- 📫 How to reach me [Gmail](Kantshiva1105@gmail.com)
+- 📫 How to reach me [Gmail](mailto:Kantshiva1105@gmail.com)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AxypGLSgkONHYZ2VX2HgBksIAWL5luMK/view?pli=1)
 
